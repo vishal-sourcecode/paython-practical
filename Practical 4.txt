@@ -1,0 +1,16 @@
+fname=input("fname")
+mname=input("mname")
+lname=input("lname")
+fullname ="  ",join ({fname,fname.lname})
+print("full name:",full name)
+email=input ("enter email")
+if email end with ("com,org,edu"):
+        print ("valid")
+else:
+         print ("invalid")
+fname .lower()
+a =fname [0:4]
+DOB=input("dd mm yyyy")
+b=DOB[0:4]
+password=a+b
+
